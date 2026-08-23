@@ -1,0 +1,12 @@
+{
+    "autodeskProduct": "Fusion360",
+    "type": "addin",
+    "author": "NEXTGEN HEXAGON",
+    "description": {
+        "": "Generates honeycomb geometry directly inside the sketch currently being edited (no new sketch, no automatic extrude)."
+    },
+    "version": "1.0.0",
+    "runOnStartup": true,
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}
