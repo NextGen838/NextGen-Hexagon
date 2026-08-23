@@ -7,7 +7,8 @@ use however you like.
 
 ## Installation
 
-1. Copy the `NextGenHexagon-zip` folder (containing `NextGenHexagon.py`,
+1. Copy the `NextGenHexagon` folder found in `NextGenHexagon-zip`
+(containing `NextGenHexagon.py`,
    `NextGenHexagon.manifest` and the `resources` folder) to any location
    on disk, unchanged.
 2. Fusion 360 → `Utilities` → `Add-Ins` → `Scripts and Add-Ins`.
